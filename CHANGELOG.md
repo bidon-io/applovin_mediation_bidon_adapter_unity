@@ -1,6 +1,6 @@
 # AppLovin Mediation Bidon Adapter Unity Plugin
 
-## Changelog 
+## Changelog
 
 ### v0.7.0 (May 23, 2025)
 
