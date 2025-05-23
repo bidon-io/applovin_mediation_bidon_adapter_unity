@@ -1,0 +1,18 @@
+{
+    "name": "Bidon.AppLovinMaxAdapter.PluginRemover.Editor",
+    "rootNamespace": "Bidon.AppLovinMaxAdapter.PluginRemover.Editor",
+    "references": [
+        "GUID:14b63e5b0d46473fb470b037aea38fff"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

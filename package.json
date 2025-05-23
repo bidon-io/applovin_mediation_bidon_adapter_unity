@@ -1,0 +1,21 @@
+{
+  "name": "com.applovin.mediation.adapters.bidon",
+  "version": "0.7.0",
+  "displayName": "AppLovin Mediation Bidon Adapter",
+  "description": "Provides control over advertising auctions to Publishers, while making it fair and transparent.",
+  "unity": "2020.1",
+  "documentationUrl": "https://docs.bidon.org/docs/applovin-max/sdk-integration",
+  "changelogUrl": "https://github.com/bidon-io/applovin_mediation_bidon_adapter_unity/blob/main/CHANGELOG.md",
+  "keywords": [
+    "Bidon",
+    "Postbid",
+    "Mediation",
+    "Monetization"
+  ],
+  "author":
+  {
+    "name": "Bidon Foundation",
+    "email": "hi@bidon.org",
+    "url": "https://bidon.org"
+  }
+}

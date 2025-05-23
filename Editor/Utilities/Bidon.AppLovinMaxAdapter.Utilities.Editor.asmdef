@@ -1,0 +1,16 @@
+{
+    "name": "Bidon.AppLovinMaxAdapter.Utilities.Editor",
+    "rootNamespace": "Bidon.AppLovinMaxAdapter.Utilities.Editor",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

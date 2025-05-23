@@ -1,0 +1,19 @@
+{
+    "name": "Bidon.AppLovinMaxAdapter.TopBarMenu.Editor",
+    "rootNamespace": "Bidon.AppLovinMaxAdapter.TopBarMenu.Editor",
+    "references": [
+        "GUID:14b63e5b0d46473fb470b037aea38fff",
+        "GUID:27a990fcbf384e2ca8e9f0d75fa55ae5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
